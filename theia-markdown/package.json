@@ -24,7 +24,7 @@
     "@theia/filesystem": "next",
     "@theia/languages": "next",
     "@types/highlight.js": "^9.1.10",
-    "@types/markdown-it": "0.0.4",
+    "@types/markdown-it": "0.0.9",
     "highlight.js": "^9.12.0",
     "markdown-it": "^8.4.0"
   },
